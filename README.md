@@ -1,4 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2340BCFA&size=36&lines=Welcome+To+Yogesh's+GitHub+Profile!)](https://git.io/typing-svg)<!-- [![MasterHead](https://image.freepik.com/free-vector/programming-concept-illustration_114360-1351.jpg)](https://khushboogoel01.github.io) -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2340BCFA&size=36&lines=Welcome+To+Yogesh's+GitHub+Profile!)](https://git.io/typing-svg)<!-- [!
+
+![Twitter header - 1](https://www.canva.com/design/DAEzc77oAk4/h1oxTKe0tQP82rQBtZERGw/view?utm_content=DAEzc77oAk4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+
 
 <h1 align="center">Hi, I'm YOGESH <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
