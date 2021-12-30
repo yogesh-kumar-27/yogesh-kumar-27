@@ -2,7 +2,7 @@
 <h1 align="left">Hi 👋, I'm Yogesh Kumar</h1>
 <h3 align="left">Hi There! I Am Yogesh! I Am A Enthusiastic Front End Web Developer, Am Interested In IT And Everything In Its Orbit., I Am Looking For A Company Willing To Offer Me A Placement Among Their Developers. In Return, I Would Offer My Full Commitment, And Be A Pleasant And Friendly Addition To Your Team. I Am Therefore Currently Looking For A Job Or An Internship As A Front-End Developer.My Passion Lies In Learning About The Latest Technologies.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yogesh-kumar-27&label=Profile%20views&color=0e75b6&style=flat" alt="yogesh-kumar-27" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=yogesh-kumar-27&label=Profile%20views&color=0e75b6&style=flat" alt="yogesh-kumar-27" /> </p> -->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yogesh-kumar-27" alt="yogesh-kumar-27" /></a> </p>
 
