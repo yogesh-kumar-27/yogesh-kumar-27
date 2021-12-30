@@ -4,7 +4,7 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=yogesh-kumar-27&label=Profile%20views&color=0e75b6&style=flat" alt="yogesh-kumar-27" /> </p> -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yogesh-kumar-27" alt="yogesh-kumar-27" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yogesh-kumar-27" alt="yogesh-kumar-27" /></a> </p> -->
 
 - 👨‍💻 All of my projects are available at [yogesh-kumar-27.github.io/portfolio/](yogesh-kumar-27.github.io/portfolio/)
 
