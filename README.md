@@ -4,6 +4,7 @@
 
 
 <h1 align="center">Hi, I'm YOGESH <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h3 align="center">I Am A Enthusiastic Front End Web Developer, Am Interested In IT And Everything In Its Orbit.</h3>
 
 <h3 align="left">Hi There! I Am Yogesh! I Am A Enthusiastic Front End Web Developer, Am Interested In IT And Everything In Its Orbit., I Am Looking For A Company Willing To Offer Me A Placement Among Their Developers. In Return, I Would Offer My Full Commitment, And Be A Pleasant And Friendly Addition To Your Team. I Am Therefore Currently Looking For A Job Or An Internship As A Front-End Developer.My Passion Lies In Learning About The Latest Technologies.</h3>
 
@@ -11,6 +12,7 @@
 ### A few things about me
 
 - 💻 I'm front end web developer, designer.
+- - 🌱 I’m currently learning **Python**
 - 📍 I'm from India.
 - 🕸️ I am passionate about building websites with React.js and Next.js
 - 🤝 I like to meet new people.
