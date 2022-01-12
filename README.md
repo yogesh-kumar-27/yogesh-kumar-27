@@ -12,7 +12,7 @@
 ### A few things about me
 
 - 💻 I'm front end web developer, designer.
-- - 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python**
 - 📍 I'm from India.
 - 🕸️ I am passionate about building websites with React.js and Next.js
 - 🤝 I like to meet new people.
